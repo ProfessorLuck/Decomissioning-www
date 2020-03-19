@@ -1,0 +1,14 @@
+/Users/joshuacollins/git/separate-blog/bin/Debug/netcoreapp3.0/separate-blog
+/Users/joshuacollins/git/separate-blog/bin/Debug/netcoreapp3.0/separate-blog.deps.json
+/Users/joshuacollins/git/separate-blog/bin/Debug/netcoreapp3.0/separate-blog.runtimeconfig.json
+/Users/joshuacollins/git/separate-blog/bin/Debug/netcoreapp3.0/separate-blog.runtimeconfig.dev.json
+/Users/joshuacollins/git/separate-blog/bin/Debug/netcoreapp3.0/separate-blog.dll
+/Users/joshuacollins/git/separate-blog/bin/Debug/netcoreapp3.0/separate-blog.pdb
+/Users/joshuacollins/git/separate-blog/obj/Debug/netcoreapp3.0/separate-blog.csprojAssemblyReference.cache
+/Users/joshuacollins/git/separate-blog/obj/Debug/netcoreapp3.0/separate-blog.AssemblyInfoInputs.cache
+/Users/joshuacollins/git/separate-blog/obj/Debug/netcoreapp3.0/separate-blog.AssemblyInfo.cs
+/Users/joshuacollins/git/separate-blog/obj/Debug/netcoreapp3.0/separate-blog.dll
+/Users/joshuacollins/git/separate-blog/obj/Debug/netcoreapp3.0/separate-blog.pdb
+/Users/joshuacollins/git/separate-blog/bin/Debug/netcoreapp3.0/HtmlAgilityPack.dll
+/Users/joshuacollins/git/separate-blog/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+/Users/joshuacollins/git/separate-blog/obj/Debug/netcoreapp3.0/separate-blog.csproj.CopyComplete

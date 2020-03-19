@@ -1,0 +1,14 @@
+/Users/joshuacollins/git/Decommissioning www/final-output/bin/Debug/netcoreapp3.0/final-output
+/Users/joshuacollins/git/Decommissioning www/final-output/bin/Debug/netcoreapp3.0/final-output.deps.json
+/Users/joshuacollins/git/Decommissioning www/final-output/bin/Debug/netcoreapp3.0/final-output.runtimeconfig.json
+/Users/joshuacollins/git/Decommissioning www/final-output/bin/Debug/netcoreapp3.0/final-output.runtimeconfig.dev.json
+/Users/joshuacollins/git/Decommissioning www/final-output/bin/Debug/netcoreapp3.0/final-output.dll
+/Users/joshuacollins/git/Decommissioning www/final-output/bin/Debug/netcoreapp3.0/final-output.pdb
+/Users/joshuacollins/git/Decommissioning www/final-output/bin/Debug/netcoreapp3.0/HtmlAgilityPack.dll
+/Users/joshuacollins/git/Decommissioning www/final-output/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+/Users/joshuacollins/git/Decommissioning www/final-output/obj/Debug/netcoreapp3.0/final-output.csprojAssemblyReference.cache
+/Users/joshuacollins/git/Decommissioning www/final-output/obj/Debug/netcoreapp3.0/final-output.AssemblyInfoInputs.cache
+/Users/joshuacollins/git/Decommissioning www/final-output/obj/Debug/netcoreapp3.0/final-output.AssemblyInfo.cs
+/Users/joshuacollins/git/Decommissioning www/final-output/obj/Debug/netcoreapp3.0/final-output.csproj.CopyComplete
+/Users/joshuacollins/git/Decommissioning www/final-output/obj/Debug/netcoreapp3.0/final-output.dll
+/Users/joshuacollins/git/Decommissioning www/final-output/obj/Debug/netcoreapp3.0/final-output.pdb

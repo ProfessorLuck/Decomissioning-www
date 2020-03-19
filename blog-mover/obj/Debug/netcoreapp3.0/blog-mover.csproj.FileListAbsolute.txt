@@ -1,0 +1,22 @@
+/Users/joshuacollins/git/blog-mover/bin/Debug/netcoreapp3.0/blog-mover
+/Users/joshuacollins/git/blog-mover/bin/Debug/netcoreapp3.0/blog-mover.deps.json
+/Users/joshuacollins/git/blog-mover/bin/Debug/netcoreapp3.0/blog-mover.runtimeconfig.json
+/Users/joshuacollins/git/blog-mover/bin/Debug/netcoreapp3.0/blog-mover.runtimeconfig.dev.json
+/Users/joshuacollins/git/blog-mover/bin/Debug/netcoreapp3.0/blog-mover.dll
+/Users/joshuacollins/git/blog-mover/bin/Debug/netcoreapp3.0/blog-mover.pdb
+/Users/joshuacollins/git/blog-mover/obj/Debug/netcoreapp3.0/blog-mover.csprojAssemblyReference.cache
+/Users/joshuacollins/git/blog-mover/obj/Debug/netcoreapp3.0/blog-mover.AssemblyInfoInputs.cache
+/Users/joshuacollins/git/blog-mover/obj/Debug/netcoreapp3.0/blog-mover.AssemblyInfo.cs
+/Users/joshuacollins/git/blog-mover/obj/Debug/netcoreapp3.0/blog-mover.dll
+/Users/joshuacollins/git/blog-mover/obj/Debug/netcoreapp3.0/blog-mover.pdb
+/Users/joshuacollins/git/Decommissioning www/blog-mover/bin/Debug/netcoreapp3.0/blog-mover
+/Users/joshuacollins/git/Decommissioning www/blog-mover/bin/Debug/netcoreapp3.0/blog-mover.deps.json
+/Users/joshuacollins/git/Decommissioning www/blog-mover/bin/Debug/netcoreapp3.0/blog-mover.runtimeconfig.json
+/Users/joshuacollins/git/Decommissioning www/blog-mover/bin/Debug/netcoreapp3.0/blog-mover.runtimeconfig.dev.json
+/Users/joshuacollins/git/Decommissioning www/blog-mover/bin/Debug/netcoreapp3.0/blog-mover.dll
+/Users/joshuacollins/git/Decommissioning www/blog-mover/bin/Debug/netcoreapp3.0/blog-mover.pdb
+/Users/joshuacollins/git/Decommissioning www/blog-mover/obj/Debug/netcoreapp3.0/blog-mover.csprojAssemblyReference.cache
+/Users/joshuacollins/git/Decommissioning www/blog-mover/obj/Debug/netcoreapp3.0/blog-mover.AssemblyInfoInputs.cache
+/Users/joshuacollins/git/Decommissioning www/blog-mover/obj/Debug/netcoreapp3.0/blog-mover.AssemblyInfo.cs
+/Users/joshuacollins/git/Decommissioning www/blog-mover/obj/Debug/netcoreapp3.0/blog-mover.dll
+/Users/joshuacollins/git/Decommissioning www/blog-mover/obj/Debug/netcoreapp3.0/blog-mover.pdb

@@ -1,0 +1,11 @@
+/Users/joshuacollins/git/Decommissioning www/filtered-output/bin/Debug/netcoreapp3.0/filtered-output
+/Users/joshuacollins/git/Decommissioning www/filtered-output/bin/Debug/netcoreapp3.0/filtered-output.deps.json
+/Users/joshuacollins/git/Decommissioning www/filtered-output/bin/Debug/netcoreapp3.0/filtered-output.runtimeconfig.json
+/Users/joshuacollins/git/Decommissioning www/filtered-output/bin/Debug/netcoreapp3.0/filtered-output.runtimeconfig.dev.json
+/Users/joshuacollins/git/Decommissioning www/filtered-output/bin/Debug/netcoreapp3.0/filtered-output.dll
+/Users/joshuacollins/git/Decommissioning www/filtered-output/bin/Debug/netcoreapp3.0/filtered-output.pdb
+/Users/joshuacollins/git/Decommissioning www/filtered-output/obj/Debug/netcoreapp3.0/filtered-output.csprojAssemblyReference.cache
+/Users/joshuacollins/git/Decommissioning www/filtered-output/obj/Debug/netcoreapp3.0/filtered-output.AssemblyInfoInputs.cache
+/Users/joshuacollins/git/Decommissioning www/filtered-output/obj/Debug/netcoreapp3.0/filtered-output.AssemblyInfo.cs
+/Users/joshuacollins/git/Decommissioning www/filtered-output/obj/Debug/netcoreapp3.0/filtered-output.dll
+/Users/joshuacollins/git/Decommissioning www/filtered-output/obj/Debug/netcoreapp3.0/filtered-output.pdb
